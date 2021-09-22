@@ -175,6 +175,30 @@ class HomePage extends StatelessWidget {
               ),
               decoration: borderDeco(),
             ),
+            Container(
+              padding: padding(),
+              child: Text(
+                'Ashtosh',
+                style: textColor(),
+              ),
+              decoration: borderDeco(),
+            ),
+            Container(
+              padding: padding(),
+              child: Text(
+                'Farhan',
+                style: textColor(),
+              ),
+              decoration: borderDeco(),
+            ),
+            Container(
+              padding: padding(),
+              child: Text(
+                'Harsh Kanani',
+                style: textColor(),
+              ),
+              decoration: borderDeco(),
+            ),
           ],
         ),
       ),
